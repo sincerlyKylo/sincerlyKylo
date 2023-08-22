@@ -1,5 +1,1 @@
-Sup! I'm kylo
-A young programmer who is learning C, C++ and Java
-So uh yeah
-I'm a boy
-I'm also a material girl /j
+Sup! I'm Kylo, A young programmer who is learning C and C++, I'm currently developing my own OS
