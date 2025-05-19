@@ -1,1 +1,4 @@
-Sup! I'm Kylo, A young programmer who is learning C and C++, I'm currently developing my own OS
+Work harder not smarter!!
+(I have the habit of jumping unqualified into a project)
+
+Current project: CarbonLD
