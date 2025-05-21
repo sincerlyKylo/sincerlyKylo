@@ -5,7 +5,7 @@ Hi, I’m Kylo— I tend to dive headfirst into complex, low-level projects with
 I thrive in low-level chaos: kernel hacking, bootloaders, weird memory bugs, and reinventing the wheel because… why not?
 
 ## What I’m Doing Now
-	• CarbonLD — a linker for the CarbonOS project I probably wasn’t qualified to start… but here we are.
+ CarbonBoot — a bootloader for the CarbonOS project I probably wasn’t qualified to start… but here we are.
 
 ## Interests
 
